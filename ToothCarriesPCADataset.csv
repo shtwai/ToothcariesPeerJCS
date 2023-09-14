@@ -1,0 +1,50 @@
+Variable,Description 
+act_caries,It represents the presence of the dental caries (Label)
+Sido_No,It shows the area of residence of the respondent of the dental examination.
+Region_No,It represents the region of residence of the subject.
+Gender,It represents the gender of the respondent.
+Prev_caries,It represents the previous history of dental caries.
+Calculus,It represents respondent have tartar build-up
+Fluorosis,It represents tooth speckle
+Bleeding,It show the gingival bleeding
+X1,It shows the awareness of the respondent about the dental and gum oral health
+X2,It show the respondent dental treatment experience in the last year
+X3,It shows the respondent experience of the needing dental treatment but not receiving treatment.
+X4_1,It shows the tooth brushed before breakfast
+X4_2,It shows the tooth brushed after the breakfast
+X4_3,It shows the tooth brushed before lunch
+X4_4,It shows the tooth brushed after lunch
+X4_5,It shows the tooth brushed before dinner
+X4_6,It shows the tooth brushed after dinner
+X4_7,It shows the tooth brushed after snack
+X4_8,It shows the tooth brushed before going to sleep
+X4_9,Tooth not brushed
+X5_1,Frequency of the dental floss usage
+X5_2,Frequency of handle floss usage
+X5_3,Frequency of mouth wash usage
+X5_4,Frequency of electric tooth brush usage
+X5_5,It represent oral care product  usage (if any)
+X6,It represent the toothpaste usage
+X7,It represents the fluoride tooth paste usage
+X8,It represent if any sticky snack eaten today?
+X9,It represent if any sticky snack eaten yesterday
+X10,It represent the  gum bleeding of gum pain while brushing
+X11,It shows the pain or discomfort in the tooth in the last 1 year.
+X12,It shows parents are smoking or not
+X13,It represents any smoking experience?
+X14_1,It shows that the respondent living with grandfather
+X14_2,It shows that the respondent living with grandmother
+X14_3,It shows that the respondent living with father
+X14_4,It shows that the respondent living with stepfather
+X14_5,It shows that the respondent living with mother
+X14_6,It shows that the respondent living with stepmother
+X14_7,It shows that the respondent living with older sister/older brother
+X14_8,It shows that the respondent living with younger sister/younger brother
+X14_9,It shows the not living with the above mentioned family members
+X15_1,It represents the house hold economic status
+X16,It represents the weekly allowance
+,
+,0 means 'No'                        1 means 'Yes'
+,
+,
+,
